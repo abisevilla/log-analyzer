@@ -1,0 +1,14 @@
+INFO 2025-01-10 User logged in
+[ERROR 2025-01-10 Failed to connect to database
+[WARNING] Invalid password attempt
+[DEBUG] 2025-01-10 Debugging application
+[INFO] 10-01-2025 User logged in
+[ERROR] 2025/01/10 Database connection failed
+[INFO] 2025-01-10
+[ERROR] Failed to connect to database
+[INFO] 2025-13-40 Invalid date
+[] 2025-01-10 User logged in
+[INFO]2025-01-10 User logged in
+- [ERROR] 2025-01-10 Failed to connect to database
+[WARNING] 2025-01-10
+[INFO] 2025-01-10 User logged in [EXTRA]

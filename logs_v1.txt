@@ -1,0 +1,5 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Failed to connect to database
+[WARNING] 2025-01-10 Invalid password attempt
+[INFO] 2025-01-11 Application started successfully
+[ERROR] 2025-01-12 Connection timeout
